@@ -61,9 +61,9 @@ Collection of online resources about pedestrian.
 ## Papers & Documents
 ### Crowd/Occlusion
 #### CVPR 2019
-- [Pedestrian Detection With Autoregressive Network Phases - CVPR - 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Brazil_Pedestrian_Detection_With_Autoregressive_Network_Phases_CVPR_2019_paper.pdf)[[code](https://github.com/garrickbrazil/AR-Ped)]
-- [High-Level Semantic Feature Detection: A New Perspective for Pedestrian Detection - CVPR - 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf) [[code](https://github.com/liuwei16/CSP)]
-- [Adaptive NMS: Refining Pedestrian Detection in a Crowd - CVPR - 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
+- [Pedestrian Detection With Autoregressive Network Phases](http://openaccess.thecvf.com/content_CVPR_2019/papers/Brazil_Pedestrian_Detection_With_Autoregressive_Network_Phases_CVPR_2019_paper.pdf)[[code](https://github.com/garrickbrazil/AR-Ped)]
+- [High-Level Semantic Feature Detection: A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf) [[code](https://github.com/liuwei16/CSP)]
+- [Adaptive NMS: Refining Pedestrian Detection in a Crowd](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
 
 #### ECCV 2018
 - [Occlusion-aware R-CNN:Detecting Pedestrians in a Crowd](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)
@@ -137,7 +137,7 @@ Collection of online resources about pedestrian.
 
 #### Arxiv-17
 - [Scene-Specific Pedestrian Detection Based on Parallel Vision](https://arxiv.org/abs/1712.08745)
-- [Too Far to See? Not Really! --- Pedestrian Detection with Scale-aware Localization Policy - TIM](https://arxiv.org/abs/1709.00235)
+- [Too Far to See? Not Really! --- Pedestrian Detection with Scale-aware Localization Policy - TIM 2017](https://arxiv.org/abs/1709.00235)
 - [Rotational Rectification Network: Enabling Pedestrian Detection for Mobile Vision](https://arxiv.org/abs/1706.08917)
 - [MixedPeds: Pedestrian Detection in Unannotated Videos using Synthetically Generated Human-agents for Training](https://arxiv.org/abs/1707.09100)
 - [Comparing Apples and Oranges: Off-Road Pedestrian Detection on the NREC Agricultural Person-Detection Dataset](https://arxiv.org/abs/1707.07169)
@@ -165,7 +165,7 @@ Collection of online resources about pedestrian.
 
 ## Attribute/Analysis
 #### Arxiv-19
-- [Detector-in-Detector: Multi-Level Analysis for Human-Parts ACCV 2018](https://arxiv.org/abs/1902.07017)
+- [Detector-in-Detector: Multi-Level Analysis for Human-Parts - ACCV 2018](https://arxiv.org/abs/1902.07017)
 - [Attribute Aware Pooling for Pedestrian Attribute Recognition - IJCAI 2019](https://arxiv.org/abs/1907.11837)
 - [Pedestrian Attribute Recognition: A Survey](https://arxiv.org/abs/1901.07474v1)
 
