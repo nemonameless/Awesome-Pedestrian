@@ -62,7 +62,7 @@ Collection of online resources about pedestrian.
 ### Crowd/Occlusion
 #### CVPR 2019
 - [Pedestrian Detection With Autoregressive Network Phases](http://openaccess.thecvf.com/content_CVPR_2019/papers/Brazil_Pedestrian_Detection_With_Autoregressive_Network_Phases_CVPR_2019_paper.pdf)[[code](https://github.com/garrickbrazil/AR-Ped)]
-- [High-Level Semantic Feature Detection: A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf) [[code](https://github.com/liuwei16/CSP)]
+- [High-Level Semantic Feature Detection: A New Perspective for Pedestrian Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [[code](https://github.com/liuwei16/CSP)]
 - [Adaptive NMS: Refining Pedestrian Detection in a Crowd](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf)
 
 #### ECCV 2018
